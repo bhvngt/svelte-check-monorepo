@@ -1,0 +1,4 @@
+packages:
+  - 'web'
+  - 'lib'
+  - 'storybook'
